@@ -1,0 +1,5 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Windspeed,Country,Date
+0,mumford,5.2618,-0.759,80.82,89,100,8.59,GH,1709778497
+1,takoradi,4.8845,-1.7554,80.49,88,97,6.98,GH,1709778498
+2,cape coast,5.1053,-1.2466,80.55,89,100,7.96,GH,1709778498
+3,san antonio de pale,-1.4014,5.6325,83.17,79,100,6.53,GQ,1709778498
